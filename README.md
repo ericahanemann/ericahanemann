@@ -31,7 +31,7 @@ hi 👋 I'm Érica!
 
 ### socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/guilhermo-masid-494677b8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <a href="https://www.instagram.com/erica_hnm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/%C3%A9rica-hanemann-090000220/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <a href="https://www.instagram.com/erica_hnm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> </p>
 
 <!--
 **ericahanemann/ericahanemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
