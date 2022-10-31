@@ -3,15 +3,17 @@ hi 👋 I'm Érica!
 
 ### my github stats
 
-<a href="http://www.github.com/ericahanemann"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=ericahanemann&show_icons=true&hide=&count_private=true&title_color=a5a6a8&text_color=ffffff&icon_color=a5a6a8&bg_color=171717&hide_border=true&show_icons=true" alt="ericahanemann's GitHub stats" /></a>
+<a href="http://www.github.com/ericahanemann"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=ericahanemann&show_icons=true&hide=&count_private=true&title_color=a5a6a8&text_color=ffffff&icon_color=a5a6a8&bg_color=0d1117&hide_border=true&show_icons=true" alt="ericahanemann's GitHub stats" /></a>
 
 <!--
+bg color tava 171717
+
 <a href="http://www.github.com/ericahanemann"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ericahanemann&stroke=ffffff&background=171717&ring=a5a6a8&fire=a5a6a8&currStreakNum=ffffff&currStreakLabel=a5a6a8&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/ericahanemann"><img src="https://activity-graph.herokuapp.com/graph?username=ericahanemann&bg_color=171717&color=ffffff&line=a5a6a8&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 -->
 
-<a href="https://github.com/ericahanemann" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=ericahanemann&layout=compact&title_color=a5a6a8&text_color=ffffff&icon_color=a5a6a8&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ericahanemann" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=ericahanemann&layout=compact&title_color=a5a6a8&text_color=ffffff&icon_color=a5a6a8&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### skills
 
