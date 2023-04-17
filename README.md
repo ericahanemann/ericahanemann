@@ -1,6 +1,15 @@
-hi 👋 I'm Érica!
-==========================
+# Érica Vanessa Hanemann
 
+**`Web Developer/Front-End Developer`**
+
+<p>
+ Hello there! I'm currently working on personal projects and improving on everything Front-End related.
+ You can check out my portfolio below:
+</p>
+<a href="https://erica-portfolio-dun.vercel.app/" target="_blank" >My portfolio :)</a>
+
+
+--------------------------------------------
 ### my github stats
 
 <a href="http://www.github.com/ericahanemann"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ericahanemann&show_icons=true&theme=dark&title_color=c4c4c4&text_color=c4c4c4&bg_color=0d1117&locale=en" alt="ericahanemann" /></a>
