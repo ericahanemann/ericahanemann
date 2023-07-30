@@ -6,7 +6,8 @@
  Hello there! I'm a web developer, currently working on personal projects and improving on everything Front-End related.
  You can check out my portfolio here in my pinned repositories or just by clicking on the link below:
 </p>
-<a href="https://erica-portfolio-dun.vercel.app/" target="_blank" >My portfolio :)</a>
+
+[My portfolio:)](https://reactjs.org/](https://erica-portfolio-dun.vercel.app/)
 
 
 --------------------------------------------
