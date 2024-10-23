@@ -7,7 +7,7 @@
  You can check out my portfolio here in my pinned repositories or just by clicking on the link below:
 </p>
 
-[My portfolio:)](https://erica-portfolio-dun.vercel.app/)
+[My portfolio:)](https://ericahanemann.vercel.app/)
 
 
 --------------------------------------------
