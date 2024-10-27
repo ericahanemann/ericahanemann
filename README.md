@@ -7,12 +7,12 @@
  You can check out my portfolio here in my pinned repositories or just by clicking on the link below:
 </p>
 
-[My portfolio:)](https://ericahanemann.vercel.app/)
+[my portfolio :)](https://ericahanemann.vercel.app/)
 
 
 --------------------------------------------
 
-### languages and tools
+### LANGUAGES AND TOOLS
 
 <p align="left">
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### socials
+### SOCIAL
 
 <p align="left">
  <a href="https://www.linkedin.com/in/erica-hanemann/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
