@@ -3,7 +3,7 @@
 **`Web Developer/Front-End Developer`**
 
 <p>
- Hello! I'm a Front-End Developer passionate about building performant, accessible, and user-friendly web applications. I work primarily with React, TypeScript, Node.js, and modern front-end technologies.
+ Hello! I'm a Web Developer passionate about building performant, accessible, and user-friendly web applications. I work primarily with React, TypeScript, Node.js, and modern front-end technologies.
 </p>
 <p>
  Currently, I work professionally as a Front-End Developer, delivering high-quality digital solutions and collaborating in all stages of design and development.
