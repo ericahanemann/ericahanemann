@@ -3,8 +3,11 @@
 **`Web Developer/Front-End Developer`**
 
 <p>
- Hello there! I'm a Front-End developer, currently working on personal projects and improving on everything related to web development.
- You can check out my portfolio here in my pinned repositories or just by clicking on the link below:
+ Hello! I'm a Front-End Developer passionate about building performant, accessible, and user-friendly web applications. I work primarily with React, TypeScript, Node.js, and modern front-end technologies.
+</p>
+<p>
+ Currently, I work professionally as a Front-End Developer, delivering high-quality digital solutions and collaborating in all stages of design and development.
+ Feel free to explore my portfolio to see what I’ve been working on!
 </p>
 
 <a href="https://ericahanemann.vercel.app/" target="_blank" rel="noreferrer">**`my portfolio :)`**</a>
